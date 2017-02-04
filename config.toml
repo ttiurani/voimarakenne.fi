@@ -1,0 +1,13 @@
+# Site settings
+baseurl = "http://www.voimarakenne.fi"
+languageCode = "fi-FI"
+title = "Voimarakenne"
+theme = "hugoscroll"
+
+# Enter your tracking code to enable Google analytics
+#googleAnalytics = "UA-XXXXXXXX-1"
+
+[Params]
+  description = "Rakennusalan konsulttitoimisto"
+  email = "jouko.tiuraniemi@voimarakenne.fi"
+  cover = "/bg.jpg"
